@@ -91,4 +91,4 @@ def extract(html, base_str):
 
 
 if __name__ == '__main__':
-    print scrape('bupt.edu.cn', 'bing')
+    print scrape('tencent.com', 'bing')
